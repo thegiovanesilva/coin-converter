@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="3.086">
+  <testsuite name="ExchangeService" errors="0" failures="0" skipped="0" timestamp="2021-12-30T20:39:26" time="2.66" tests="3">
+    <testcase classname="ExchangeService should be defined" name="ExchangeService should be defined" time="0.01">
+    </testcase>
+    <testcase classname="ExchangeService ConvertAmount() should be throw if called with invalid params" name="ExchangeService ConvertAmount() should be throw if called with invalid params" time="0.008">
+    </testcase>
+    <testcase classname="ExchangeService ConvertAmount() should be not throw if called with valid params" name="ExchangeService ConvertAmount() should be not throw if called with valid params" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>
